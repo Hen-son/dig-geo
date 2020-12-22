@@ -11,7 +11,7 @@ Herzliche Einladung zum 11. Treffen des Forschungsnetzwerks „Digitale Geograph
 
 ### Freitag 29.01.2021
 
-#### Vormittagsblock (10:00 - 12:00)
+#### Vormittagsblock (10:00 - 12:00 Uhr)
 Allgemeine Themen bezüglich Fortgang des Netzwerks:
 
 - Bericht zum Abschluss UTB Publikation
@@ -21,7 +21,7 @@ Allgemeine Themen bezüglich Fortgang des Netzwerks:
 
 *Mittagspause 12:00 - 13:00 Uhr*
 
-#### Nachmittagsblock (13.30 bis max. 16.30)
+#### Nachmittagsblock (13.30 bis max. 16.30 Uhr)
 Vorbereitung der Sommerschule Herbst 2021 in Erlangen (bzw. online)
 
 - Bericht Vorbereitungsgruppe zur geplanten Struktur
