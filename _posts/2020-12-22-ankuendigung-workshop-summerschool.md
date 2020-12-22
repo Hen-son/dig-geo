@@ -5,7 +5,7 @@ ort: online
 tags: Workshop
 ---
 
-## 11. Netzwerktreffen Digitale Humangeographischen
+## 11. Netzwerktreffen Digitale Geographien
 
 Herzliche Einladung zum 11. Treffen des Forschungsnetzwerks „Digitale Geographien“. Das Treffen findet online statt. Der Zoom-Link wird Mitte Januar stattfinden die angemeldeten Teilnehmer\*innen verschickt.
 
