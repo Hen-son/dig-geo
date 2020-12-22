@@ -9,7 +9,7 @@ tags: Workshop
 
 Herzliche Einladung zum 11. Treffen des Forschungsnetzwerks „Digitale Geographien“. Das Treffen findet online statt. Der Zoom-Link wird Mitte Januar stattfinden die angemeldeten Teilnehmer\*innen verschickt.
 
-### Ablauf
+### Freitag 29.01.2021
 
 #### Vormittagsblock (10:00 - 12:00)
 Allgemeine Themen bezüglich Fortgang des Netzwerks:
@@ -27,4 +27,4 @@ Vorbereitung der Sommerschule Herbst 2021 in Erlangen (bzw. online)
 - Bericht Vorbereitungsgruppe zur geplanten Struktur
 - Detailplanung mit einzelnen Referent*innen
 
-Bitte um Anmeldung bis 20. Januar per Mail an [Finn Damm](mailto:finn.dammann@fau.de)
+Bitte um Anmeldung **bis 20. Januar** per Mail an [Finn Dammann](mailto:finn.dammann@fau.de)
